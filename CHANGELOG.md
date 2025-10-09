@@ -14,3 +14,4 @@
 - fix: add a note about the defaults
 - docs: clarify the setup steps
 - fix: link the usage section
+- chore: clarify the setup steps
